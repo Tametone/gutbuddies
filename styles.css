@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #FADD8B;
+  display: flex;
+  flex-direction: column;
+  line-height: 2.5;
+  align-items: center;
+}
+
+h1 {
+  color: #1A3557;
+}
+
+p{
+    color: #222222;
+}
+
+a {
+  color: #1A3557;
+}
+
+
+.logo {
+  object-fit: contain;
+  width: 500px;
+  padding-top: 30px;
+}
+
+.teaser {
+  margin-top: 70px;
+}
